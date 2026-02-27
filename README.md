@@ -1,8 +1,8 @@
 # Grid Website
-*A modern and responsive travel website project.*
+*A simple grid website project.*
 
-![view1](img/sc1.png)
-![view2](img/sc2.png)
+![view1](img/sc.1.png)
+![view2](img/sc.2.png)
 
 
 [Demo Project](https://zarimovahedi-dev.github.io/Grid/)
